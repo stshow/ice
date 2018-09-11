@@ -1,3 +1,10 @@
+##### Build Instructions #####
+
+1. git clone https://github.com/stshow/ice
+2. cd ice
+3. dpkg-buildpackage -us -uc
+
+
 ##### Ice #####
 
 (C) 2010 - 2018 -- Kendall Weaver <kendall@peppermintos.com>
